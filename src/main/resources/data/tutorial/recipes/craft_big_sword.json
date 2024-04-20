@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "X": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "TXT",
+    " X ",
+    " # "
+  ],
+  "result": {
+    "item": "tutorial:big_sword"
+  }
+}
